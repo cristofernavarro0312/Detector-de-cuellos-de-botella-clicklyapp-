@@ -1,0 +1,1 @@
+# Detector-de-cuellos-de-botella-clicklyapp-
